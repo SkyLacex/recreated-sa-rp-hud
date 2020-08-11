@@ -1,0 +1,8 @@
+<meta>
+    <script src='client/client.lua' type='client'/>
+
+    <file src='client/assets/hp.png'/>
+    <file src='client/assets/armor.png'/>
+    <file src='client/assets/drink.png'/>
+    <file src='client/assets/food.png'/>
+</meta>
